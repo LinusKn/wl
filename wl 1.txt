@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title> wl1.html </title>
+
+</head>
+
+<body>
+
+  <h1> Timberwolf </h1>
+
+  <p>Der Timberwolf <strong> (Canis lupus lycaon) </strong> ist eine Unterart des Wolfes.<br />
+  Aufgrund von genetischen Studien wird der Timberwolf seit 2013 vom United States 
+  Fish and Wildlife Service als eigene Art Canis lycaon klassifiziert</p>
+
+  <a href= "https://www.zoo-hannover.de/dam/jcr:540102ef-2106-46e3-b767-1afed25936e2/1024x768-wolf-timberwolf-winter-yukon-bay-erlebnis-zoo-hannover.jpg" 
+  target= "_blank"><img src="https://www.zoo-hannover.de/dam/jcr:540102ef-2106-46e3-b767-1afed25936e2/1024x768-wolf-timberwolf-winter-yukon-bay-erlebnis-zoo-hannover.jpg"/></a>
+  
+  <h2> Übersicht </h2>
+  
+   <ul>
+   <li> Ordnung: Raubtier (Carnivora)</li>
+   <li> Überfamilie: Hundeartig (Canoidea)</li>
+   <li> Familie: Hunde (Canidae)</li>
+   <li> Gattung: Wolfs- und Schakalartige (Canis)</li>
+   <li> Art: Wolf (Canis lupus)</li>
+   <li> Unterart: Timberwolf </li>
+   </ul>
+   
+   
+  <h3> Vorkommen</h3>
+  <p> Der Timberwolf war ursprünglich über weite Teile Nordamerikas verbreitet.<br />
+   Heute findet man ihn allmählich wieder in <em>Südostkanada </em> und im Osten der USA, <em>in Michigan, Wisconsin und Minnesota</em>. <br/>
+   Er lebt bevorzugt in dichten Nadelwäldern.</p>
+  
+  <h3> Merkmale </h3>
+  <p>Der Timberwolf ist eine der größeren Unterarten des Wolfes. Er besitzt eine sehr variable Fellfarbe von weiß bis schwarz, meist jedoch braun. Jungtiere werden schwarz geboren. In der Regel wird das Fell mit jedem Fellwechsel ein bisschen heller. Jedoch ist das Alter eines Tieres nicht an seiner Fellfarbe bestimmbar. Der Timberwolf erreicht eine Körperlänge von etwa 120 bis 140 cm und eine Schulterhöhe von 70 bis 90 cm. Anders als in Kanada und Alaska sind die im Osten der USA in Michigan, Wisconsin und Minnesota anzutreffenden Timberwölfe eher klein und überschreiten selten ein Gewicht von 100 Pfund (ca. 45 kg); sie wiegen meist zwischen 50 (ca. 23 kg) und 100 Pfund (ca. 45 kg), im Mittel 70 Pfund (ca. 32 kg). Die Rüden sind meist schwerer als die Fähen. In der Literatur wird von acht Timberwölfen aus Wisconsin mit einer Schulterhöhe von im Durchschnitt 34 Zoll (ca. 86 cm) berichtet. </p>
+
+  <a href="https://de.wikipedia.org/wiki/Timberwolf" target="_blank"> Quelle </a>
+   
+
+  
+</html>
